@@ -1,0 +1,22 @@
+C:\Users\Reio\source\repos\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.exe
+C:\Users\Reio\source\repos\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.deps.json
+C:\Users\Reio\source\repos\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.runtimeconfig.json
+C:\Users\Reio\source\repos\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.dll
+C:\Users\Reio\source\repos\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.pdb
+C:\Users\Reio\source\repos\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.AssemblyInfo.cs
+C:\Users\Reio\source\repos\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.dll
+C:\Users\Reio\source\repos\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.pdb
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.exe
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.deps.json
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.runtimeconfig.json
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.runtimeconfig.dev.json
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.dll
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\bin\Debug\netcoreapp3.0\Point.pdb
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.csprojAssemblyReference.cache
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.AssemblyInfoInputs.cache
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.AssemblyInfo.cs
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.dll
+C:\Users\Reio\Desktop\Stuff\New folder\SnakeDraft\Point\obj\Debug\netcoreapp3.0\Point.pdb
